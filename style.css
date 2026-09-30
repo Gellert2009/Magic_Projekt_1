@@ -14,7 +14,7 @@
     order: 2;
     margin-left: auto;
     color: #f1d891 !important;
-    font-size: 1.45rem;
+    font-size: 25px;
     font-weight: bold;
     letter-spacing: 1px;
     display: flex;
@@ -76,3 +76,44 @@
     color: #fff0b5 !important;
 }
 
+#szekcio1{
+    background-color: #F1E4C3;
+}
+
+#szekcio2{
+    background-color: #E2CF9F;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 70px;
+    text-decoration: underline #f1d891;
+}
+
+.gomb{
+    background-color: #f1d891;
+}
+
+.btn-warning{
+    background-color: #d8b86a;
+    font-weight: bold;
+}
+
+.btn-warning:hover, .btn-warning:focus, .btn-warning:active{
+    background-color: #f1d891
+}
+
+.hero {
+    background: linear-gradient(
+        rgba(45, 35, 29, 0.8),
+        rgba(80, 57, 42, 0.8)
+    ),
+    url("hero.png")
+    center/cover;
+
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
