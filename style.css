@@ -210,3 +210,18 @@ h1{
 .kutna-card{
     background-color: #f4ead2;
 }
+
+/*note to self, itt kezdődik el a latnivalok.html :DDDDD*/
+#latnivalok{
+    background-color: #E2CF9F;
+    padding-bottom: 50px;
+}
+
+.latnivalok-intro{
+    max-width: 680px;
+    margin: 0 auto 10px;
+    text-align: center;
+    color: #493939;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
